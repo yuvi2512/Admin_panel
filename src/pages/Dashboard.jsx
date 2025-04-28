@@ -58,7 +58,7 @@ function Home() {
           <Card sx={{ backgroundColor: '#f5f5f5' }}>
             <CardContent>
               <Typography variant="h6">Active Users</Typography>
-              <Typography variant="h4">40,689</Typography>
+              <Typography variant="h4">40,680</Typography>
               <Typography color="green">8.5% Up from yesterday</Typography>
             </CardContent>
           </Card>
